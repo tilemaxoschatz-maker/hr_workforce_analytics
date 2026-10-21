@@ -81,21 +81,27 @@ Six SQL views sit on top of the `_clean` views and feed Tableau directly:
 ## 5. Dashboards and key findings
 
 ### Page 1: Workforce & Attrition
-![Workforce and Attrition](images/01_workforce_attrition.png)
+<p align="center">
+  <img src="https://github.com/tilemaxoschatz-maker/hr_workforce_analytics/blob/main/dashboard_review/Screenshot%202026-10-21%20092555.png">
+</p>
 
 - **Sales (~30%) and Customer Success (~29%)** lose roughly 3 in 10 employees, 2.5 to 5 times the rate of stable teams such as Legal (~9%) and Finance (~6%).
 - Of 147 recorded exits (employees with a known department), **102 (~69%) were voluntary**. Sales and Customer Success account for 83 exits, **over half of the total**.
 - **Engagement is flat across departments** (average 6.1 to 6.6), so at department level it does not explain who leaves.
 
 ### Page 2: Compensation & Performance
-![Compensation and Performance](images/02_compensation_performance.png)
+<p align="center">
+  <img src="https://github.com/tilemaxoschatz-maker/hr_workforce_analytics/blob/main/dashboard_review/Screenshot%202026-10-21%20092524.png">
+</p>
 
 - **No consistent gender pay gap**: in most departments the Female/Male difference in average salary is within about 1 to 3K in either direction.
 - **Product is the exception**: men average ~93K vs ~84K for women (about 10% higher).
 - **Performance ratings are flat** across teams (~2.8 to 3.0), but **promotion rates range from 2.5% (Finance) to 7.4% (Data & Analytics, Product)**.
 
 ### Page 3: Recruiting
-![Recruiting](images/03_recruiting.png)
+<p align="center">
+  <img src="https://github.com/tilemaxoschatz-maker/hr_workforce_analytics/blob/main/dashboard_review/Screenshot%202026-10-21%20093642.png">
+</p>
 
 - **Referral** has the best hire rate (21.5% vs 13.9% to 15.6% for other sources) and the lowest cost per hire (~€2.3K).
 - Referral produced the **same number of hires as LinkedIn (53) from about 35% fewer candidates** (246 vs 380).
